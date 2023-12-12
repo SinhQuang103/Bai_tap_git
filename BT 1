@@ -1,0 +1,5 @@
+git init: Khởi tạo local repository
+git add <tên_file>: Đưa các file vào staging area
+git commit -m "<ghi chú>" : Đưa file từ staging vào local repository
+git remote add origin <Link>GIT.git: Kết nối local repository với remote repository.
+git push origin master: đẩy code từ local repo lên remote repo
